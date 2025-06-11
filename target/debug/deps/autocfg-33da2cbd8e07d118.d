@@ -1,0 +1,10 @@
+/Users/sangharshbhustalimath/projects/mber-transfer/target/debug/deps/autocfg-33da2cbd8e07d118.d: /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/lib.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/error.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/rustc.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/version.rs
+
+/Users/sangharshbhustalimath/projects/mber-transfer/target/debug/deps/libautocfg-33da2cbd8e07d118.rlib: /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/lib.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/error.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/rustc.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/version.rs
+
+/Users/sangharshbhustalimath/projects/mber-transfer/target/debug/deps/libautocfg-33da2cbd8e07d118.rmeta: /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/lib.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/error.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/rustc.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/version.rs
+
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/lib.rs:
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/error.rs:
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/rustc.rs:
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/autocfg-1.3.0/src/version.rs:

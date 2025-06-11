@@ -1,0 +1,10 @@
+/Users/sangharshbhustalimath/projects/mber-transfer/target/debug/deps/thiserror-0310480c69250c2c.d: /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs
+
+/Users/sangharshbhustalimath/projects/mber-transfer/target/debug/deps/libthiserror-0310480c69250c2c.rlib: /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs
+
+/Users/sangharshbhustalimath/projects/mber-transfer/target/debug/deps/libthiserror-0310480c69250c2c.rmeta: /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs /Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs
+
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/lib.rs:
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/aserror.rs:
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/display.rs:
+/Users/sangharshbhustalimath/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-1.0.63/src/provide.rs:
